@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 0;
+    padding: 0;
+}
+hr {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color: black;
+    border: 2px solid black;
+    width: 60%;
+    margin-left: 40px;
+}
+h1 {
+    margin-left: 40px;
+    font-size: 30px;
+}
+h2 {
+    margin-left: 40px;
+    color: green;
+    font-size: 20px;
+}
+p {
+    margin-left: 40px;
+    font-weight: bold;
+}
+li {
+    margin-left: 20px;
+    font-weight: bold;
+}
+a {
+    margin-left: 40px;
+}
+a:hover {
+    color: cyan;
+}
+a:visited {
+    color: red;
+}
+.shift {
+    margin-left: 0;
+}
+.color {
+    color: blue;
+}
