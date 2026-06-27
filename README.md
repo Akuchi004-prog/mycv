@@ -1,2 +1,2 @@
 # Live Site
-https://akuchi004-prog.github.io/mycv/
+Project URL: https://akuchi004-prog.github.io/mycv/
